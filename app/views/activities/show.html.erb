@@ -1,0 +1,15 @@
+<%= link_to 'Add a New Activity', new_activity_path %> <%= link_to 'Home', root_path %>
+
+<h1>Activity Details</h1>
+
+
+<div>Date: <%= @activity.date %></div>
+<div>Title: <%= @activity.title %></div>
+<div>Description: <%= @activity.description %></div>
+<div>Address: <%= @activity.address %></div> 
+<div>Type: <%= @activity.activity_type %></div>
+<div>Focus: <%= @activity.activity_focus %></div>
+<div>Organizer: <%= @activity.organizer %></div>
+<div>Link: <%= @activity.activity_link %></div>
+
+
