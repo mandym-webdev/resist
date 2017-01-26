@@ -1,28 +1,20 @@
-== README
+Resist
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Resist is a website dedicated to consolidating resistance activities against the current Trump administration to provide a single source of information to those who want to get involved.  It allows people to list resistance activities in a single location so people can find activities in their area.  
 
-Things you may want to cover:
+Resist is an open source project and I welcome help from any and all parties.  
 
-* Ruby version
+How to contribute:
 
-* System dependencies
+Feedback/Feature Suggestions
 
-* Configuration
+If you have bug reports, feedback, or feature suggestions, please submit them as an issue.  I will review them, label them, and tackle them when I can.
 
-* Database creation
+Design/Development
 
-* Database initialization
+1 - Look at the issue tracker and choose an issue you want to own.
+2 - Assign it to yourself, change the label to "In Progress" and add a comment with your completion ETA.
+3 - When your assigned feature is completed, create a pull request so it can be reviewed and changed the label to "In Review".
+4 - Choose a new issue to work on.
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+Thank you for your support!
